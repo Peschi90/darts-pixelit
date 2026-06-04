@@ -1,3 +1,8 @@
+## 2.0.1.0
+- major refactor and code cleanup
+- improved stability and performance
+- changed to new Auth flow
+
 ## 1.3.1
 - minor fixes and improvements to multiple endpoint support
 - add possibility to display remeining player scores for each player
