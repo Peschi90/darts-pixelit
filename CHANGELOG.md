@@ -1,3 +1,6 @@
+## b2.0.1.7
+- new websocket connection handling with ping/pong and timeout
+
 ## b2.0.1.5
 - major refactor and code cleanup
 - improved stability and performance
